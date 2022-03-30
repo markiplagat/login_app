@@ -1,6 +1,8 @@
 # sign_up_screen
 
 A new Flutter project.
+![Screenshot from 2022-03-31 00-39-37](https://user-images.githubusercontent.com/40692082/160935592-16fef521-2af3-40cc-af05-81b11c67b16b.png)
+
 
 ## Getting Started
 
